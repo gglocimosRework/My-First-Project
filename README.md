@@ -4,6 +4,8 @@
 
 => Some parts were later modified as I improved my skills, but most of the structure still reflects my early learning process.
 
+==> I only remembered to post this website now, and I modified a few things today(example: ":hover" and ":active" as pseudo-class)
+
 ## Technologies Used
 
 *HTML*
